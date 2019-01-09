@@ -15,7 +15,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Tambah"
+            android:text="@string/btn_insert"
             android:id="@+id/btn_insert"/>
 
         <Button
@@ -25,7 +25,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:id="@+id/btn_delete"
-            android:text="Hapus"/>
+            android:text="@string/btn_delete"/>
     </LinearLayout>
 
     <android.support.v7.widget.RecyclerView

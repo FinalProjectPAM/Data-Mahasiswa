@@ -11,12 +11,12 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="NIM"
+        android:hint="@string/npm"
         android:id="@+id/npm_param"
         />
 
     <Button
-        android:text="Hapus"
+        android:text="@string/btn_delete"
         android:background="@color/colorYellow"
         android:textColor="#fff"
         android:layout_width="match_parent"

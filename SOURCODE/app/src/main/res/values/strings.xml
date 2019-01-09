@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Data Mahasiswa</string>
+    <string name="title">Data</string>
+    <string name="npm">NPM</string>
+    <string name="nama">Nama</string>
+    <string name="btn_insert">Tambah</string>
+    <string name="btn_delete">Hapus</string>
+    <string name="btn_simpan">Simpan</string>
+    <string name="btn_cancel">Batal</string>
+    <string name="inp_fakultas">Fakultas</string>
+    <string name="about">Tentang</string>
+    <string name="setting">Pengaturan</string>
+    <string name="help">Bantuan</string>
+    <string name="npm_param">NIM</string>
+    <string name="programstudi">Akademik</string>
+    <string name="namalengkap">Nama Lengkap</string>
+
+
+</resources>

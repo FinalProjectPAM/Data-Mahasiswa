@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Student Data</string>
+    <string name="title">Student Data</string>
+    <string name="npm">NPM</string>
+    <string name="nama">Name</string>
+    <string name="btn_insert">Add</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_simpan">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="inp_fakultas">Faculty</string>
+    <string name="about">About</string>
+    <string name="setting">Setting</string>
+    <string name="help">Help</string>
+    <string name="npm_param">NIM</string>
+    <string name="programstudi">Academic</string>
+    <string name="namalengkap">Fullname</string>
+
+</resources>

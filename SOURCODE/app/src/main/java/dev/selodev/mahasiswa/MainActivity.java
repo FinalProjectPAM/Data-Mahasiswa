@@ -129,18 +129,7 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
-    public boolean onOptionsItemSelected(MenuItem item){
-        switch (item.getItemId()){
-            case R.id.ind:
-                Toast.makeText(MainActivity.this, "Bahasa Indonesia", Toast.LENGTH_SHORT).show();
-                return true;
-            case R.id.eng:
-                Toast.makeText(MainActivity.this, "Bahasa Inggris", Toast.LENGTH_SHORT).show();
-                return true;
 
-        }
-        return false;
-    }
 
     @Override
     public void onBackPressed() {
