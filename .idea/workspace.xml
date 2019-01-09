@@ -15,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="menu_item.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SOURCODE/app/src/main/res/menu/menu_item.xml">
           <provider selected="true" editor-type-id="android-designer2">
@@ -42,97 +42,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="UASPAM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UASPAM" type="462c0819:PsiDirectoryNode" />
+              <item name="Data-Mahasiswa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data-Mahasiswa" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="UASPAM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UASPAM" type="462c0819:PsiDirectoryNode" />
+              <item name="Data-Mahasiswa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data-Mahasiswa" type="462c0819:PsiDirectoryNode" />
               <item name="SOURCODE" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="UASPAM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UASPAM" type="462c0819:PsiDirectoryNode" />
-              <item name="SOURCODE" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UASPAM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UASPAM" type="462c0819:PsiDirectoryNode" />
+              <item name="Data-Mahasiswa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data-Mahasiswa" type="462c0819:PsiDirectoryNode" />
               <item name="SOURCODE" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UASPAM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UASPAM" type="462c0819:PsiDirectoryNode" />
-              <item name="SOURCODE" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UASPAM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UASPAM" type="462c0819:PsiDirectoryNode" />
-              <item name="SOURCODE" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UASPAM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UASPAM" type="462c0819:PsiDirectoryNode" />
-              <item name="SOURCODE" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="menu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UASPAM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UASPAM" type="462c0819:PsiDirectoryNode" />
-              <item name="SOURCODE" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UASPAM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UASPAM" type="462c0819:PsiDirectoryNode" />
-              <item name="SOURCODE" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UASPAM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UASPAM" type="462c0819:PsiDirectoryNode" />
-              <item name="SOURCODE" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dev" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UASPAM1/SOURCODE" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunDashboard">
@@ -239,6 +178,14 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SOURCODE/app/src/main/res/menu/menu_item.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SOURCODE/app/src/main/res/menu/menu_item.xml">
       <provider selected="true" editor-type-id="android-designer2">
         <state />
